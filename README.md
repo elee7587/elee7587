@@ -1,6 +1,6 @@
 Hi, I’m @elee7587
 I’m interested in data science and machine learning!
-I’m currently learning machine learning and working on my skills in Python and SQL.
+I’m  learning machine learning and artifical intelligence and working on my skills in Python and SQL.
 How to reach me: E-mail: elee7587@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a basketball fanatic and am constantly looking to gain knowledge within the world of basketball and the NBA.
